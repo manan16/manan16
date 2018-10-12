@@ -1,11 +1,12 @@
-# Introduction:
+# Introduction
  
 I am Manan Mehta.
 
-# Hobbies:
 
-- Programming 
-- Playing Guitar
-- Readin fictions
+# Hobbies
+
+ - Programming 
+ - Playing Guitar
+ - Readin fictions
 
 ## My favourite smile is :smug:
